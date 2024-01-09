@@ -17,7 +17,7 @@ body {
     animation: fade-in 1.5s ease-in-out forwards; /* 渐入动画 */
 }
 
-.welcome-text {
+.redirect-text {
     font-size: 40px; /* 更大的字号 */
     @media (max-width: 768px) {
         font-size: 40px !important; /* 在小屏幕上减小字号 */
